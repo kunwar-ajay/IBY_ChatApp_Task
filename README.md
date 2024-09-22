@@ -1,7 +1,14 @@
 
-# Talk-A-Tive
+# ChatBeside-You
+IBY_CHAT_APP_INTERN_SOFTWARE_DEVELOPER
+Name: Ajay Singh
+University: Indian Institute of Technology ( Indian School of Mines) Dhanbad
+Admission No: 22JE0074
+Department: Electronics Engineering
 
-Talk-a-tive is a Full Stack Chatting App.
+
+
+ChatBeside-You is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,15 +20,15 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[Link: ](https://iby-chatapp-task.onrender.com/)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/kunwar_ajay/mern-chat-app
 ```
 
 Go to the project directory
@@ -57,25 +64,12 @@ Start the Client
   
 # Features
 
-### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
+: User registration and authentication.
+: Sending and receiving text messages between users.
+: Group chat functionality.
+: Real-time message updates.
 
-- [@Piyush-eon](https://github.com/piyush-eon)
 
-  
+
+
+
