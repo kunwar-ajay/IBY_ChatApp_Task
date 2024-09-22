@@ -70,11 +70,13 @@ Start the Client
 : Real-time message updates.
 
 ### Login Page
-[Link: ](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/LogIn-Page.png)
+![image ](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/LogIn-Page.png)
 ### Home Page
 [](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/HomePage.png)
 ### Sign-Up Page
-[](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/SignUp-Page.png)
+![image](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/SignUp-Page.png)
+
+![image](https://github.com/user-attachments/assets/99fd1880-280b-4194-9e0e-3203efb76867)
 
 
 
