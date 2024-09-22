@@ -69,6 +69,12 @@ Start the Client
 : Group chat functionality.
 : Real-time message updates.
 
+### Login Page
+[](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/LogIn-Page.png)
+### Home Page
+[](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/HomePage.png)
+### Sign-Up Page
+[](https://github.com/kunwar-ajay/IBY_ChatApp_Task/blob/main/SignUp-Page.png)
 
 
 
